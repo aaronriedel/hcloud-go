@@ -97,7 +97,7 @@ type PricingGetResponse struct {
 // PricingPrimaryIPTypePrice defines the schema of pricing information for a primary IP
 // type at a datacenter.
 type PricingPrimaryIPTypePrice struct {
-	Datacenter   string `json:"datacenter"`
+	Datacenter   string `json:"location"`
 	PriceHourly  Price  `json:"price_hourly"`
 	PriceMonthly Price  `json:"price_monthly"`
 }

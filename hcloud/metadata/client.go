@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/internal/instrumentation"
+	"github.com/aaronriedel/hcloud-go/hcloud/internal/instrumentation"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

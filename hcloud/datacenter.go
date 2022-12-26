@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 )
 
 // Datacenter represents a datacenter in the Hetzner Cloud.

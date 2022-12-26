@@ -1,4 +1,4 @@
-module github.com/hetznercloud/hcloud-go
+module github.com/aaronriedel/hcloud-go
 
 go 1.18
 

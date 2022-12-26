@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 )
 
 // Location represents a location in the Hetzner Cloud.

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 )
 
 // This file provides converter functions to convert models in the

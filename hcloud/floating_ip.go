@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 )
 
 // FloatingIP represents a Floating IP in the Hetzner Cloud.

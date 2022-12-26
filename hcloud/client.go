@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/internal/instrumentation"
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/internal/instrumentation"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 	"github.com/prometheus/client_golang/prometheus"
 	"golang.org/x/net/http/httpguts"
 )

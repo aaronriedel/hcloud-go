@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hetznercloud/hcloud-go/hcloud/schema"
+	"github.com/aaronriedel/hcloud-go/hcloud/schema"
 )
 
 type testEnv struct {

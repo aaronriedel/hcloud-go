@@ -1,11 +1,11 @@
 # hcloud: A Go library for the Hetzner Cloud API
 
-[![GitHub Actions status](https://github.com/hetznercloud/hcloud-go/workflows/Continuous%20Integration/badge.svg)](https://github.com/hetznercloud/hcloud-go/actions)
-[![GoDoc](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud?status.svg)](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud)
+[![GitHub Actions status](https://github.com/aaronriedel/hcloud-go/workflows/Continuous%20Integration/badge.svg)](https://github.com/aaronriedel/hcloud-go/actions)
+[![GoDoc](https://godoc.org/github.com/aaronriedel/hcloud-go/hcloud?status.svg)](https://godoc.org/github.com/aaronriedel/hcloud-go/hcloud)
 
 Package hcloud is a library for the Hetzner Cloud API.
 
-The library’s documentation is available at [GoDoc](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud),
+The library’s documentation is available at [GoDoc](https://godoc.org/github.com/aaronriedel/hcloud-go/hcloud),
 the public API documentation is available at [docs.hetzner.cloud](https://docs.hetzner.cloud/).
 
 ## Example
@@ -18,7 +18,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/hetznercloud/hcloud-go/hcloud"
+    "github.com/aaronriedel/hcloud-go/hcloud"
 )
 
 func main() {

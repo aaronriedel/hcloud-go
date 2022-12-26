@@ -1,6 +1,6 @@
 # Changes
 
-As of release v1.24.0 we moved the release notes to Github Releases: https://github.com/hetznercloud/hcloud-go/releases
+As of release v1.24.0 we moved the release notes to Github Releases: https://github.com/aaronriedel/hcloud-go/releases
 
 ## v1.23.1
 * Add removed `ErrorCodeServerAlreadyAttached` again
@@ -108,14 +108,14 @@ As of release v1.24.0 we moved the release notes to Github Releases: https://git
 ## v1.8.0
 
 * Add `WithPollInterval()` option to `Client` which allows to specify the polling interval
-  ([issue #92](https://github.com/hetznercloud/hcloud-go/issues/92))
-* Add `CPUType` field to `ServerType` ([issue #91](https://github.com/hetznercloud/hcloud-go/pull/91))
+  ([issue #92](https://github.com/aaronriedel/hcloud-go/issues/92))
+* Add `CPUType` field to `ServerType` ([issue #91](https://github.com/aaronriedel/hcloud-go/pull/91))
 
 ## v1.7.0
 
-* Add `Deprecated ` field to `Image` ([issue #88](https://github.com/hetznercloud/hcloud-go/issues/88))
-* Add `StartAfterCreate` flag to `ServerCreateOpts` ([issue #87](https://github.com/hetznercloud/hcloud-go/issues/87))
-* Fix enum types ([issue #89](https://github.com/hetznercloud/hcloud-go/issues/89))
+* Add `Deprecated ` field to `Image` ([issue #88](https://github.com/aaronriedel/hcloud-go/issues/88))
+* Add `StartAfterCreate` flag to `ServerCreateOpts` ([issue #87](https://github.com/aaronriedel/hcloud-go/issues/87))
+* Fix enum types ([issue #89](https://github.com/aaronriedel/hcloud-go/issues/89))
 
 ## v1.6.0
 
@@ -134,12 +134,12 @@ As of release v1.24.0 we moved the release notes to Github Releases: https://git
 ## v1.3.1
 
 * Make clients using the old error code for ratelimiting work as expected
-  ([issue #73](https://github.com/hetznercloud/hcloud-go/issues/73))
+  ([issue #73](https://github.com/aaronriedel/hcloud-go/issues/73))
 
 ## v1.3.0
 
-* Support passing user data on server creation ([issue #70](https://github.com/hetznercloud/hcloud-go/issues/70))
-* Fix leaking response body by not closing it ([issue #68](https://github.com/hetznercloud/hcloud-go/issues/68))
+* Support passing user data on server creation ([issue #70](https://github.com/aaronriedel/hcloud-go/issues/70))
+* Fix leaking response body by not closing it ([issue #68](https://github.com/aaronriedel/hcloud-go/issues/68))
 
 ## v1.2.0
 
